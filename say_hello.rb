@@ -1,6 +1,6 @@
-def say_hello(name, language = "English")
-  puts "Hello #{name}. You speak #{language}!"
+def say_hello(name)
+  puts "Hello #{name}!"
 end
 
 
-say_hello("Sherm", "Japanese")
+say_hello("Kent Beck")

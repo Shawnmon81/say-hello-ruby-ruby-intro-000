@@ -1,5 +1,5 @@
 def say_hello(name, language = "English")
-  puts "Hi #{name}. You speak #{language}!"
+  puts "Hello #{name}. You speak #{language}!"
 end
 
 
